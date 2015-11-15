@@ -13,3 +13,4 @@ test forbid fast forward mode
 2.718281828459 add from dev   win7
 add branch bug
 add branch feature
+add branch test
